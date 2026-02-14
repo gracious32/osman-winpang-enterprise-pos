@@ -1,0 +1,3 @@
+npx create-react-app osman-winpang-enterprise-pos
+cd osman-winpang-enterprise-pos
+npm install recharts
